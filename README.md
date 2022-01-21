@@ -1,2 +1,2 @@
-# Desafio de projeto git/github.
-Repositório para o desafio da DIO.
+# DIO Jornada de Aprendizado
+Repositório para salvar arquivos e anotações possivelmente úteis durante o bootcamp Frontend Developer Inter
