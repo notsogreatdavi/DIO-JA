@@ -1,0 +1,5 @@
+Baixar o bootstrap e extrair diretamente na pasta do projeto que eu vou começar a desenvolver.
+é necessário fazer sempre esse processo?
+Bootstrap também tem uma biblioteca de JS.
+Bootstrap trabalha com definições de clounas, rows e containers.
+ele vai sempre dividir a tela em 12 colunas.
