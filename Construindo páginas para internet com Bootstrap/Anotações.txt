@@ -3,3 +3,4 @@ Baixar o bootstrap e extrair diretamente na pasta do projeto que eu vou começar
 Bootstrap também tem uma biblioteca de JS.
 Bootstrap trabalha com definições de clounas, rows e containers.
 ele vai sempre dividir a tela em 12 colunas.
+mudar o nome da pasta para apenas bootstrap.
