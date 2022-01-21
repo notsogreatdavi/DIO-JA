@@ -4,3 +4,4 @@ Bootstrap também tem uma biblioteca de JS.
 Bootstrap trabalha com definições de clounas, rows e containers.
 ele vai sempre dividir a tela em 12 colunas.
 mudar o nome da pasta para apenas bootstrap.
+Container-fluid faz um container que pega toda a extensão da página horizontalmente.
