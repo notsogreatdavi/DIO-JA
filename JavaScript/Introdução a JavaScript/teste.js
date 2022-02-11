@@ -1,9 +1,12 @@
-var discount = 0.2;
-const PRICE = 2;
-var total = PRICE - discount;
-
-function sum(a, b) {
-  return a + b;
+function returnevenvalues(array) {
+  let evenNums = [];
+  for(let i = 0; i < array.length; i++) {
+  if (array[i] % 2 === 0) {
+    evenNums.push(array[i]);
+    }
+  }
+console.log(evenNums)
 }
 
-soma(3, 5)
+let array = [1, 2, 3, 4, 5, 7, 8,];
+returnevenvalues(array);
