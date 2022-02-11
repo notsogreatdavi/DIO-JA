@@ -1,0 +1,5 @@
+Interpretada
+Baseada em protótipos
+Multiparadigma
+Utilizada em web client-side
+Segue o padrão ECMAScript
