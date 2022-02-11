@@ -3,3 +3,8 @@ Baseada em protótipos
 Multiparadigma
 Utilizada em web client-side
 Segue o padrão ECMAScript
+https://drive.google.com/file/d/1OewERdQ1_0xVRj_d04PCCBxOS2qRZmwe/view?usp=sharing
+https://drive.google.com/file/d/18sCfJ8MVRShhbViehk79-4ca-lQQ4faqY/view?usp=sharing
+
+Return é quando você precisa manipular o resultado daquela função
+console.log você apenas precisa ver.
